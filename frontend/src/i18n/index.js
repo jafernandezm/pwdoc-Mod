@@ -4,10 +4,12 @@ import deDE from './de-DE'
 import frFR from './fr-FR'
 import ptBR from './pt-BR'
 
+//espanol
+import esES from './es-ES'
 export default {
   'en-US': enUS,
   'zh-CN': zhCN,
   'de-DE': deDE,
   'fr-FR': frFR,
-  'pt-BR': ptBR
+  'es-ES': esES
 } 

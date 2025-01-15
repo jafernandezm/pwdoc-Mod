@@ -15,7 +15,9 @@
             "name": "pwndoc",
             "server": "mongo-pwndoc",
             "port": "27017"
-        }
+        },
+        "jwtSecret": "552aa81670b66e01520a50eb8b7d5c71f2c410ddd22522560bca73c0d3c09651",
+        "jwtRefreshSecret": "1c42d262a6cb7490a5ec59cccb4bbfc3336cf735c7bd791bd85c68aeb479e7e2"
     },
     "test": {
         "port": 6262,
